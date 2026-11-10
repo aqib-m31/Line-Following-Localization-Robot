@@ -74,3 +74,11 @@ An autonomous robot that uses two IR sensors to follow a black line grid and loc
 - No obstacles exist between the current position and target position on the grid
 - The robot operates in an environment with consistent lighting conditions
 - The navigation algorithm assumes an unobstructed path and follows a simple "column-first, then row" strategy, which may not always be the shortest path.
+
+
+## Mentored by
+
+Dr Tawseef Ahmed Teli<br>
+Assistant Professor<br>
+Higher Education Department<br>
+Govt. of Jammu and Kashmir, India
